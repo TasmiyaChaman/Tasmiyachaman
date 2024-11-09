@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tasmiya Chaman</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
 
 
 - 🔭 I’m currently working on **Casualities caused by Road accidents**
