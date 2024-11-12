@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tasmiya Chaman</h1>
 
 
-- 🔭 I’m currently working on **Casualities caused by Road accidents**
+
 
 - 🌱 I’m currently learning **Data visualisation tools like Power BI**
 
